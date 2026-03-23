@@ -12,6 +12,6 @@
   "timeout": 5000,
   "waitUntil": "load",
   "variables": {
-    "user_id": "1001"
+    "user_id": "816046095"
   }
 }
